@@ -14,5 +14,13 @@
   "dependencies": {
     "jquery": "^3.6.0",
     "live-server": "^1.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anggit00/natours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anggit00/natours/issues"
+  },
+  "homepage": "https://github.com/anggit00/natours#readme"
 }
